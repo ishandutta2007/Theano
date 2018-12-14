@@ -39,3 +39,10 @@ Theano (current directory) is the distribution directory.
       the appropriate submodules
     * Theano/doc contains files and scripts used to generate the documentation
     * Theano/html is where the documentation will be generated
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
